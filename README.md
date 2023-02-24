@@ -1,2 +1,2 @@
 # NavBar-Web
-Simples barra de navegação Web desenvolvido utilizando HTML e CSS 
+Simples barra de navegação Web desenvolvida utilizando HTML e CSS 
